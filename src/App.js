@@ -1,15 +1,14 @@
-import Navbar from "./compoents/Navbar";
-import "./App.css";
-import Main from "./compoents/Main";
-import Footer from "./compoents/footer";
+import HeroSection from "./compoents/HeroSection";
+import KeyValues from "./compoents/KeyValues";
+import Feedback from "./compoents/Feedback";
 
 function App() {
   return (
-    <>
-      <Navbar />
-      <Main />
-      <Footer />
-    </>
+    <div className="font-RobotoMono">
+      <HeroSection />
+      <KeyValues />
+      <Feedback />
+    </div>
   );
 }
 
