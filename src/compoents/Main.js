@@ -38,7 +38,7 @@ function Main() {
           </p>
         </div>
         <div className="grid-item">
-          <img src="/icons/vector (2).png" alt="carg" />
+          <img src="/icons/Group 1547.png" alt="call" />
           <h2>Get noticed by right costomers</h2>
           <p>
             Lorem ipsum dolor sit amet, all consectetuer adipiscing elit.
@@ -46,7 +46,7 @@ function Main() {
           </p>
         </div>
         <div className="grid-item">
-          <img src="/icons/vector.png" alt="cary" />
+          <img src="/icons/Group 1547.png" alt="cary" />
           <h2>Get noticed by right costomers</h2>
           <p>
             Lorem ipsum dolor sit amet, all consectetuer adipiscing elit.

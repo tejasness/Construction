@@ -29,7 +29,8 @@ color: #333333;
 
   
 }
-.key{
+.key{ 
+  margin: 0px;
   text-align: center;
   font-family: Roboto;
 font-size: 24px;
@@ -163,3 +164,5 @@ top: -1059px;
 border-radius: 50px;
   
 }
+
+  
