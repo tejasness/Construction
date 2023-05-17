@@ -2,8 +2,8 @@ import React from "react";
 
 function Feedback() {
   return (
-    <>
-      <h1 className="mx-auto w-max py-16 text-2xl font-bold">Customer Feedback</h1>
+    <div className="font-bold">
+      <h1 className="mx-auto w-max py-16 text-2xl">Customer Feedback</h1>
       <div className="grid grid-cols-11">
         <div className="w-max mx-auto h-auto my-auto">
           <img className="px-3 py-2 rounded-full shadow-xl" src="feedback/leftarrow.png" alt="leftarrow" />
@@ -36,7 +36,8 @@ function Feedback() {
           <img className="px-3 py-2 rounded-full shadow-xl" src="feedback/rightarrow.png" alt="rightarrow" />
         </div>
       </div>
-    </>
+      <img className="w-max mx-auto py-10" src="feedback/dots.png" alt="" />
+    </div>
   );
 }
 
